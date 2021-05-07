@@ -1,0 +1,40 @@
+.tagArea {
+    display: flex;
+}
+    
+    .__displayArea {
+      display: flex;
+    }
+    
+    .__input {
+      margin-left: 1.5rem;
+      border: none;
+      outline: none;
+    }
+  
+  
+  .tagComponent {
+    display: flex;
+    background-color: grey;
+    padding: 5px;
+    border-radius: 5px;
+    align-items: center;
+    
+     
+      }
+    .__text {
+      color: white;
+      font-family: sans-serif;
+      font-size: 0.9rem;
+    }
+    
+    .__close{
+      margin-left: 0.5rem;
+      font-size: 1rem;
+      font-family: sans-serif;
+      color: white;
+      /* ::hover {
+        cursor: pointer;
+      } */
+    }
+  

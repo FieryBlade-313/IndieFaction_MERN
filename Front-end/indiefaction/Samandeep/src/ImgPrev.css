@@ -1,0 +1,13 @@
+.ImgPrev {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .mw400 {
+    max-width: 400px;
+  }
+  
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
