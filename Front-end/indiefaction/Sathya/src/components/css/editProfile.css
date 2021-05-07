@@ -1,0 +1,34 @@
+.profile{
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    width: 100%;
+}
+
+/* form div{
+    padding: 10px;
+}
+form div input{
+    margin: 10px;
+} */
+
+
+form table{
+    width: 50%;
+}
+
+form table th{
+    text-decoration: none;
+    text-align: left;
+    padding: 2%;
+    font-size: 20px;
+}
+
+form table th input{
+    padding: 2%;
+    width: 50%;
+}
+
+#username, #steam{
+    background-color: #D3D3D3;
+}

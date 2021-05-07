@@ -7,8 +7,8 @@ import BackgroundBox from './homepage_components'
 import LogInBackBox from './login_components'
 import FlexBox from './flexbox'
 import App from './App';
-import Profile from '../Sathya/f/src/components/profile'
-import EditProfile from '../Sathya/f/src/components/editProfile'
+import Profile from '../Sathya/src/components/profile'
+import EditProfile from '../Sathya/src/components/editProfile'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(

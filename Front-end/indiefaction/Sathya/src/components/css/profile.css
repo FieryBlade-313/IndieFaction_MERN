@@ -1,0 +1,46 @@
+.profile{
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    width: 100%;
+}
+
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 5%;
+    background-color: #b82222bd;
+    padding: 10%;
+  }
+  
+.grid-container div {
+background-color: rgba(255, 255, 255, 0.8);
+text-align: center;
+padding: 0 0;
+font-size: 50px;
+}
+.item1{
+
+    grid-row: 1 /span 2;
+}
+.item2{
+
+    grid-row: 2 /span 2;
+}
+
+table{
+    width: 40%;
+}
+
+table th{
+    text-decoration: none;
+    text-align: left;
+    padding: 5%;
+    font-size: 20px;
+}
+
+#handles{
+    font-size: 30px;
+}
